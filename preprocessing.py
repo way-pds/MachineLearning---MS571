@@ -37,3 +37,8 @@ else:
 # df_vol_meal['date'] = pd.to_datetime(df_vol_meal['date'], format='%Y/%m/%d')
 
 # print(df_vol_meal)
+# ALTERAÇÕES A SEREM FEITAS DEPOIS DA REUNIÃO
+# Espcificar as colunas de interesse em cada sheet e fazer o procedimento de concatenação
+# Tratar os valores nulos
+# Tratar os valores que estão como texto (verficar se todos os nomes de refeições estão corretos, sem espaços, etc)
+# Organizar as colunas (ex: almoçço_ru, almoco_ra, almoco_rs, total_almoco, jantar_ru, jantar_ra, jantar_rs, total_jantar)
